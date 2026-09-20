@@ -3,7 +3,7 @@ import './App.css'
 
 /* ── Brand ────────────────────────────────────── */
 const BRAND = 'SK Repair Lab'
-const BRAND_EMAIL = 'hello@skrepairlab.com'
+const BRAND_EMAIL = 'kasakimparrot@gmail.com'
 
 /* ── Typewriter Phrases ───────────────────────── */
 const TYPEWRITER_PHRASES = [
@@ -504,7 +504,7 @@ export default function App() {
                     <div className="contact-item-icon" aria-hidden="true">📞</div>
                     <div className="contact-item-text">
                       <strong>Phone</strong>
-                      <span>+1 (000) 000-0000</span>
+                      <span>+254708834782</span>
                     </div>
                   </li>
                   <li className="contact-item">
