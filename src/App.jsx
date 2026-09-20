@@ -518,7 +518,7 @@ export default function App() {
                     <div className="contact-item-icon" aria-hidden="true">📍</div>
                     <div className="contact-item-text">
                       <strong>Location</strong>
-                      <span>123 Tech Street, Your City</span>
+                      <span>Sofia Road,HomaBay</span>
                     </div>
                   </li>
                   <li className="contact-item">
