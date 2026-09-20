@@ -264,7 +264,7 @@ export default function App() {
           <li><a href="#testimonials" onClick={closeMenu}>Reviews</a></li>
           <li><a href="#contact" onClick={closeMenu}>Contact</a></li>
           <li>
-            <a href="tel:+10000000000" className="nav-cta" onClick={closeMenu}>
+            <a href="tel:+254708834782" className="nav-cta" onClick={closeMenu}>
               📞 Call Now
             </a>
           </li>
@@ -314,7 +314,7 @@ export default function App() {
               </p>
 
               <div className="hero-actions">
-                <a href="tel:+10000000000" className="btn-primary">
+                <a href="tel:+254708834782" className="btn-primary">
                   📞 Call Now — It&apos;s Free
                 </a>
                 <a href="#services" className="btn-outline">
@@ -475,10 +475,10 @@ export default function App() {
               we&apos;ll tell you exactly what&apos;s wrong and what it&apos;ll cost.
             </p>
             <div className="cta-btns">
-              <a href="tel:+10000000000" className="btn-white">
+              <a href="tel:+254708834782" className="btn-white">
                 📞 Call Sam Now
               </a>
-              <a href="https://wa.me/10000000000" className="btn-ghost">
+              <a href="https://wa.me/0793075625" className="btn-ghost">
                 💬 WhatsApp Us
               </a>
             </div>
