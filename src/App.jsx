@@ -478,7 +478,7 @@ export default function App() {
               <a href="tel:+254708834782" className="btn-white">
                 📞 Call Sam Now
               </a>
-              <a href="https://wa.me/0793075625" className="btn-ghost">
+              <a href="https://wa.me/+254793075625" className="btn-ghost">
                 💬 WhatsApp Us
               </a>
             </div>
